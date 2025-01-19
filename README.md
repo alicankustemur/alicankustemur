@@ -1,5 +1,3 @@
-## Hi there 👋
-
 [![Ali Can Kustemur's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=alicankustemur&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
