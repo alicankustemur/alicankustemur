@@ -1,4 +1,4 @@
-![Ali Can Kustemur's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=alicankustemur&theme=github-compact)
+![Ali Can Kustemur's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=alicankustemur&theme=merko)
 
 <!--
 **alicankustemur/alicankustemur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
